@@ -1,0 +1,11 @@
+#Extentions
+*.pdf
+*.out
+*.list
+
+#Folders
+/.vscode
+
+#Files
+client_bak.c
+server_bak.c
